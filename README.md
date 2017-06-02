@@ -1,2 +1,16 @@
 # alfred-app-workflows
-Buy https://www.alfredapp.com/powerpack/ and then you can do all the things!
+Buy the [Alfred Powerpack](https://www.alfredapp.com/powerpack/) (only for Mac OS X) and then you can do all the things!
+
+# For Central
+* [MT - Central Premium Issue Search](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Central%20Premium%20Issue%20Search.alfredworkflow) allows you to set a keyboard shortcut to launch Central's Premium Plugins issue search (essentially a URL bookmark)
+* [MT - Open Central Issue(s) from selection](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Open%20Central%20Issue(s)%20from%20selection.alfredworkflow) allows you to select one or more comma-separated Central issue numbers and then launch it/them via a keyboard shortcut
+
+# For TheEventsCalendar.com
+* [MT - Open TEC Order# from selection via hotkey](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Open%20TEC%20Order%23%20from%20selection%20via%20hotkey.alfredworkflow) allows you to select a Post ID number from TheEventsCalendar.com (e.g. a refund request order number) and then launch its wp-admin edit screen via a keyboard shortcut (works for WooCommerce Order IDs but technically for any Post ID on TEC)
+* [MT - Open TEC Orders link via hotkey](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Open%20TEC%20Orders%20link%20via%20hotkey.alfredworkflow) allows you to open TheEventsCalendar.com WooCommerce Order wp-admin edit screen via a keyboard shortcut (essentially a URL bookmark)
+* [MT - Open TEC Users link via hotkey](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Open%20TEC%20Users%20link%20via%20hotkey.alfredworkflow) allows you to open TheEventsCalendar.com wp-admin User list via a keyboard shortcut
+* Searching TheEventsCalendar.com:
+  * [MT - Search TEC Documentation (Code Comments DocBlocks)](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Search%20TEC%20Documentation%20(Code%20Comments%20DocBlocks).alfredworkflow) - type **mtdocs *your search phrase*** to search TheEventsCalendar.com's Code Comments (DocBlocks)
+  * [MT - Search TEC Extensions](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Search%20TEC%20Extensions.alfredworkflow) - type **mtext *your search phrase*** to search TheEventsCalendar.com's Extensions Library
+  * [MT - Search TEC Forums](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Search%20TEC%20Forums.alfredworkflow) - type **mtforums *your search phrase*** to search TheEventsCalendar.com's Forums
+  * [MT - Search TEC Knowledgebase](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Search%20TEC%20Knowledgebase.alfredworkflow) - type **mtkb *your search phrase*** to search TheEventsCalendar.com's Knowledgebase
