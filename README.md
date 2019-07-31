@@ -1,11 +1,20 @@
-# alfred-app-workflows
-Buy the [Alfred Powerpack](https://www.alfredapp.com/powerpack/) (only for Mac OS X) and then you can do all the things!
+# What are these?
 
-# For Central
+Buy the [Alfred Powerpack](https://www.alfredapp.com/powerpack/) (only for Mac OS X) and then you can do all the things with [Alfred Workflows](https://www.alfredapp.com/help/workflows/)!
+
+Each one needs to be installed individually so only install the ones you think you'll use. Once installed, you need to edit each one to set your preferred keyboard shortcut (i.e. Hotkey).
+
+## Development
+
+* [Run WordPress plugin Codeception test](https://github.com/cliffordp/alfred-app-workflows/blob/master/Run%20WordPress%20plugin%20Codeception%20test.alfredworkflow) allows you to copy the relative path of a Codeception test class file for a WordPress plugin, navigate to the plugin's root directory in Terminal, use your keyboard shortcut (Hotkey) to prepend Codeception's run command along with fixing the path to run, then hit Enter to run the entire class or append a method name to run just one test.
+
+## MT - Central
+
 * [MT - Central Premium Issue Search](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Central%20Premium%20Issue%20Search.alfredworkflow) allows you to set a keyboard shortcut to launch Central's Premium Plugins issue search (essentially a URL bookmark)
 * [MT - Open Central Issue(s) from selection](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Open%20Central%20Issue(s)%20from%20selection.alfredworkflow) allows you to select one or more comma-separated Central issue numbers and then launch it/them via a keyboard shortcut
 
-# For TheEventsCalendar.com
+## MT - TheEventsCalendar.com
+
 * [MT - Open TEC Order# from selection via hotkey](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Open%20TEC%20Order%23%20from%20selection%20via%20hotkey.alfredworkflow) allows you to select a Post ID number from TheEventsCalendar.com (e.g. a refund request order number) and then launch its wp-admin edit screen via a keyboard shortcut (works for WooCommerce Order IDs but technically for any Post ID on TEC)
 * [MT - Open TEC Orders link via hotkey](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Open%20TEC%20Orders%20link%20via%20hotkey.alfredworkflow) allows you to open TheEventsCalendar.com WooCommerce Order wp-admin edit screen via a keyboard shortcut (essentially a URL bookmark)
 * [MT - Open TEC Users link via hotkey](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Open%20TEC%20Users%20link%20via%20hotkey.alfredworkflow) allows you to open TheEventsCalendar.com wp-admin User list via a keyboard shortcut
