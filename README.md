@@ -8,10 +8,9 @@ Each one needs to be installed individually so only install the ones you think y
 
 * [Run WordPress plugin Codeception test](https://github.com/cliffordp/alfred-app-workflows/blob/master/Run%20WordPress%20plugin%20Codeception%20test.alfredworkflow) allows you to copy the relative path of a Codeception test class file for a WordPress plugin, navigate to the plugin's root directory in Terminal, use your keyboard shortcut (Hotkey) to prepend Codeception's run command along with fixing the path to run, then hit Enter to run the entire class or append a method name to run just one test.
 
-## MT - Central
+## Modern Tribe - Jira
 
-* [MT - Central Premium Issue Search](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Central%20Premium%20Issue%20Search.alfredworkflow) allows you to set a keyboard shortcut to launch Central's Premium Plugins issue search (essentially a URL bookmark)
-* [MT - Open Central Issue(s) from selection](https://github.com/cliffordp/alfred-app-workflows/blob/master/MT%20-%20Open%20Central%20Issue(s)%20from%20selection.alfredworkflow) allows you to select one or more comma-separated Central issue numbers and then launch it/them via a keyboard shortcut
+* [MT - Open Jira Issue(s) from selection](https://github.com/cliffordp/alfred-app-workflows/blob/master/Modern%20Tribe/MT%20-%20Open%20Jira%20Issue(s)%20from%20selection.alfredworkflow) allows you to select one or more comma-separated Jira issue numbers and then launch it/them via a keyboard shortcut
 
 ## Modern Tribe - TheEventsCalendar.com
 
