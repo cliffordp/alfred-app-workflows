@@ -10,7 +10,7 @@ Each one needs to be installed individually so only install the ones you think y
 
 ## Modern Tribe - Jira
 
-* [MT - Open Jira Issue(s) from selection](https://github.com/cliffordp/alfred-app-workflows/blob/master/Modern%20Tribe/MT%20-%20Open%20Jira%20issue(s)%20from%20selection.alfredworkflow) allows you to select one or more comma-separated Jira issue numbers and then launch it/them via a keyboard shortcut&mdash;**Demo video: [https://share.getcloudapp.com/7KuyoY1k](https://share.getcloudapp.com/7KuyoY1k)**
+* [MT - Open Jira Issue(s) from selection](https://github.com/cliffordp/alfred-app-workflows/blob/master/Modern%20Tribe/MT%20-%20Open%20Jira%20issue(s)%20from%20selection.alfredworkflow) allows you to select one or more comma-separated Jira issue numbers and then launch it/them via a keyboard shortcut&mdash;**2 minute demo video: [https://share.getcloudapp.com/7KuyoY1k](https://share.getcloudapp.com/7KuyoY1k)**
 
 ## Modern Tribe - TheEventsCalendar.com
 
