@@ -6,7 +6,7 @@ Each one needs to be installed individually so only install the ones you think y
 
 ## Development
 
-* [Run WordPress plugin Codeception test (with tric)](https://github.com/cliffordp/alfred-app-workflows/blob/master/Run%20tric%20wpunit%20tes%20.alfredworkflow) requires having [tric](https://github.com/moderntribe/tric) setup and being in `tric shell`. It allows you to copy the relative path of a Codeception test class file for a WordPress plugin, use your keyboard shortcut (Hotkey) to prepend tric's Codeception run command along with fixing the path to run, then hit Enter to run the entire class or append a method name to run just one test.
+* [Run WordPress plugin Codeception test (with tric)](https://github.com/cliffordp/alfred-app-workflows/blob/master/Run%20tric%20wpunit%20test.alfredworkflow) requires having [tric](https://github.com/moderntribe/tric) setup and being in `tric shell`. It allows you to copy the relative path of a Codeception test class file for a WordPress plugin, use your keyboard shortcut (Hotkey) to prepend tric's Codeception run command along with fixing the path to run, then hit Enter to run the entire class or append a method name to run just one test.
 * [Run WordPress plugin Codeception test (without tric)](https://github.com/cliffordp/alfred-app-workflows/blob/master/Run%20WordPress%20plugin%20Codeception%20wpunit%20test.alfredworkflow) is just like the above but doesn't require tric, only Codeception.
 
 ## Modern Tribe - Jira
